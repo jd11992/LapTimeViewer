@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SR.T-Viewer</string>
+    <string name="load_Button">Load</string>
+    <string name="sort_newest">Newest</string>
+    <string name="sort_oldest">Oldest</string>
+    <string name="csv_Date">Date:</string>
+    <string name="csv_Start_time">Start Time:</string>
+    <string name="csv_File_size">File Size:</string>
+    <string name="csv_Not_Available">Not Available</string>
+</resources>
